@@ -2,8 +2,9 @@
 	#wrapper{
 		margin-left: auto;
 		margin-right: auto;
-		width: 80%; }
-		body {background-color: black; color:aliceblue; font-size: 18px}
+		width: 80%; 
+		background-color: black; }
+		body {background-color: white; color:aliceblue; font-size: 18px}
 
 	@keyframes walking-puro {
 		from {
