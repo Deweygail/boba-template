@@ -5,7 +5,9 @@
 		width: 80%; 
 		padding: 3em;
 		background-color: black; }
-		body {background-color: white; color:aliceblue; font-size: 18px}
+		body {background-image: url(https://i.pinimg.com/736x/90/57/11/905711f642159805df8768d00ce32d0b.jpg); 
+		background-repeat: no repeat;
+		color:aliceblue; font-size: 18px}
 
 	@keyframes walking-puro {
 		from {
