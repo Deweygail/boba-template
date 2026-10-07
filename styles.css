@@ -8,7 +8,14 @@
 		body {background-image: url(https://i.pinimg.com/736x/90/57/11/905711f642159805df8768d00ce32d0b.jpg); 
 		background-repeat: no repeat;
 		color:aliceblue; font-size: 18px}
+	.wordwordswords {
 
+margin: auto;
+width: 50%;
+border: 3px solid green;
+padding: 10px;
+
+}
 	@keyframes walking-puro {
 		from {
 			left: -150px;
